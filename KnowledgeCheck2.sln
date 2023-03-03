@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnowledgeCheck2", "KnowledgeCheck2\KnowledgeCheck2.csproj", "{FCE09BA9-6ADC-4F7E-B195-4C0126FC2993}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE09BA9-6ADC-4F7E-B195-4C0126FC2993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE09BA9-6ADC-4F7E-B195-4C0126FC2993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE09BA9-6ADC-4F7E-B195-4C0126FC2993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE09BA9-6ADC-4F7E-B195-4C0126FC2993}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF4216DD-0628-413F-982E-DAF5F08C06FF}
+	EndGlobalSection
+EndGlobal
